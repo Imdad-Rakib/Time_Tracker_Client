@@ -7,7 +7,7 @@ A simple **Time Tracking System** where users can log there working times as wel
 
 **Note:** Account creation is required for full site navigation.
 
-**Issue:** Due to free deployment the server may not response properly when you just visit the site and you see a popup showing some relevant error message. This is a small issue due to free deployment. If you encounter the error, wait for some moment and then try for 3-4 times more and then the server will get activated and the issue will be solved.
+**Issue:** Due to free deployment the server spins down with inactivity. Thus it may not response properly when you just visit the site and you see a popup showing some relevant error message. If you encounter the error, refresh the page then wait for some moment and then try for 3-4 times more. Thus the server will get activated and the issue will be solved.
 
 ## Tools
 1. React.js for client side
