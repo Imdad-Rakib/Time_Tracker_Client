@@ -41,3 +41,4 @@ To run this project on your local machine, follow the instructions:
    ```
    npm run dev
    ```
+4. Refer [here](https://github.com/Imdad-Rakib/Time_Tracker_Server/tree/dev) for setting up the server locally.
