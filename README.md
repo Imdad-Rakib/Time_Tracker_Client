@@ -7,7 +7,7 @@ A simple **Time Tracking System** where users can log there working times as wel
 
 **Note:** Account creation is required for full site navigation.
 
-**Issue:** Due to free deployment the server spins down with inactivity. Thus it may not response properly when you just visit the site and you see a popup showing some relevant error message. If you encounter the error, refresh the page then wait for some moment and then try for 3-4 times more. Thus the server will get activated and the issue will be solved.
+**Issue:** Due to free deployment the server spins down with inactivity. Thus you may get a late response when you just visit the site and make the first request. In such cases, simply wait for a minute for the server to get activated. Once the server gets activated, you will see the response and the issue will not persist for further requests.
 
 ## Tools
 1. React.js for client side
